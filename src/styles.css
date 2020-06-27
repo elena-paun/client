@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Product+Sans");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap");
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Product Sans, serif;
+  height: 100%;
+  background-size: cover;
+  background: url("./images//background4.jpg") no-repeat center center fixed;
+}
+
+#root {
+  height: 100%;
+  color: rgb(107, 62, 40);
+  background-color: hsla(0, 0%, 100%, 0.253);
+}
